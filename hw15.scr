@@ -1,0 +1,53 @@
+Script started on Wed 08 May 2019 09:11:30 PM PDT
+]0;cs1c@cs1c-VirtualBox ~/Desktop/hw15[01;32mcs1c@cs1c-VirtualBox[00m [01;34m~/Desktop/hw15 $[00m date
+Wed May  8 21:11:32 PDT 2019
+]0;cs1c@cs1c-VirtualBox ~/Desktop/hw15[01;32mcs1c@cs1c-VirtualBox[00m [01;34m~/Desktop/hw15 $[00m ls -l
+total 20
+-rw-rw-r-- 1 cs1c cs1c 13250 May  8 09:21 hw15.cpp
+-rw-rw-r-- 1 cs1c cs1c     0 May  8 21:11 hw15.scr
+-rw-rw-r-- 1 cs1c cs1c   228 May  8 09:25 Makefile
+]0;cs1c@cs1c-VirtualBox ~/Desktop/hw15[01;32mcs1c@cs1c-VirtualBox[00m [01;34m~/Desktop/hw15 $[00m make al[K[Kall
+g++ -g --std=c++11 hw15.cpp -o hw15
+]0;cs1c@cs1c-VirtualBox ~/Desktop/hw15[01;32mcs1c@cs1c-VirtualBox[00m [01;34m~/Desktop/hw15 $[00m ls -l
+total 88
+-rwxrwxr-x 1 cs1c cs1c 67048 May  8 21:11 [0m[01;32mhw15[0m
+-rw-rw-r-- 1 cs1c cs1c 13250 May  8 09:21 hw15.cpp
+-rw-rw-r-- 1 cs1c cs1c     0 May  8 21:11 hw15.scr
+-rw-rw-r-- 1 cs1c cs1c   228 May  8 09:25 Makefile
+]0;cs1c@cs1c-VirtualBox ~/Desktop/hw15[01;32mcs1c@cs1c-VirtualBox[00m [01;34m~/Desktop/hw15 $[00m ./hw15
+
+************************************** 
+*           Running HW15             * 
+*      Programmed by First Last      * 
+*         CS1C Date & Time           * 
+************************************** 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+Joshua
+List: [ 14 13 12 11 10 9 8 7 6 5 4 3 2 1 ]
+
+low_doubles alg: double array min value is -99.25
+
+low alg: double array min value is -99.25
+
+low alg: double vector min value first half is 1
+low alg: double vector min value second half is -99.25
+
+low alg: the lowest value in the list is 1
+]0;cs1c@cs1c-VirtualBox ~/Desktop/hw15[01;32mcs1c@cs1c-VirtualBox[00m [01;34m~/Desktop/hw15 $[00m exit
+exit
+
+Script done on Wed 08 May 2019 09:12:19 PM PDT
